@@ -1,2 +1,3 @@
 ﻿body {margin:0; padding:0;}
 * {display:border-box}
+*:after {display:border-box}
